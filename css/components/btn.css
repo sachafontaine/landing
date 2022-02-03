@@ -1,0 +1,11 @@
+.btn-banner {
+  background-color: rgb(23, 0, 128);
+  color: white;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-family: Open Sans;
+}
+
+.btn-banner:hover {
+  background-color: rgb(255, 123, 0);
+}
